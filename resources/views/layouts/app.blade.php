@@ -26,7 +26,7 @@
     </main>
 
     <footer>
-        <p>Proyecto Final - Laravel - SIS-500</p>
+        <p>Proyecto Final - Laravel - SIS-500 - Gestion 2026</p>
     </footer>
 
 </body>
