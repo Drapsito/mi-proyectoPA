@@ -1,0 +1,214 @@
+body{
+    font-family:Verdana, Arial, sans-serif;
+    background:#dff6ff;
+    margin:0;
+    color:#123047;
+}
+
+header{
+    background:#0b6fae;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+
+header h1{
+    margin:0;
+}
+
+header p{
+    color:#ffe066;
+}
+
+nav{
+    background:#8ed8f8;
+    text-align:center;
+    padding:12px;
+}
+
+nav a{
+    color:#123047;
+    text-decoration:none;
+    font-weight:bold;
+    margin:10px;
+}
+
+nav a:hover{
+    color:#0b6fae;
+    text-decoration:underline;
+}
+
+main{
+    width:80%;
+    margin:30px auto;
+}
+
+.tarjeta-principal{
+    background:white;
+    padding:25px;
+    border-radius:12px;
+    border:2px solid #8ed8f8;
+}
+
+h2{
+    color:#0b6fae;
+    border-bottom:2px solid #ffe066;
+    padding-bottom:8px;
+}
+
+h3{
+    color:#0b6fae;
+}
+
+p{
+    line-height:1.6;
+}
+
+.datos-inicio{
+    margin-top:20px;
+}
+
+.dato{
+    background:#f2fbff;
+    padding:12px;
+    margin:10px 0;
+    border-left:5px solid #0b6fae;
+}
+
+.habilidad{
+    margin-bottom:15px;
+}
+
+.habilidad-info{
+    display:flex;
+    justify-content:space-between;
+    font-weight:bold;
+}
+
+.barra{
+    background:#d6eef8;
+    height:15px;
+    border-radius:10px;
+    margin-top:5px;
+}
+
+.progreso{
+    background:#0b6fae;
+    height:15px;
+    border-radius:10px;
+}
+
+.resumen-materias{
+    display:flex;
+    gap:15px;
+    margin:20px 0;
+}
+
+.resumen-caja{
+    background:#f2fbff;
+    padding:15px;
+    border:1px solid #8ed8f8;
+    border-radius:8px;
+    text-align:center;
+    flex:1;
+}
+
+.resumen-caja span{
+    display:block;
+    font-size:24px;
+    font-weight:bold;
+    color:#0b6fae;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+}
+
+th{
+    background:#0b6fae;
+    color:white;
+    padding:10px;
+}
+
+td{
+    padding:10px;
+    text-align:center;
+    border:1px solid #d6eef8;
+}
+
+tr:nth-child(even){
+    background:#f2fbff;
+}
+
+.aprobado{
+    color:#0b6fae;
+    font-weight:bold;
+}
+
+.reprobado{
+    color:#d94b6a;
+    font-weight:bold;
+}
+
+form{
+    margin-top:20px;
+}
+
+label{
+    display:block;
+    font-weight:bold;
+    margin-top:12px;
+}
+
+input,
+textarea{
+    width:100%;
+    padding:10px;
+    border:1px solid #8ed8f8;
+    border-radius:5px;
+}
+
+button{
+    margin-top:15px;
+    background:#0b6fae;
+    color:white;
+    border:none;
+    padding:10px 18px;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#084f7d;
+}
+
+.mensaje-confirmacion{
+    background:#f2fbff;
+    padding:12px;
+    border-left:5px solid #ffe066;
+    margin:15px 0;
+}
+
+footer{
+    background:#0b6fae;
+    color:white;
+    text-align:center;
+    padding:15px;
+    margin-top:30px;
+}
+.error{
+    color:#d94b6a;
+    font-weight:bold;
+    font-size:14px;
+    margin-top:5px;
+}
+
+.mensaje-confirmacion{
+    background:#f2fbff;
+    padding:12px;
+    border-left:5px solid #ffe066;
+    margin:15px 0;
+    color:#123047;
+}
