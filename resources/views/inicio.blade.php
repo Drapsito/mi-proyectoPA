@@ -11,6 +11,11 @@
         Este es mi portafolio academico desarrollado para la materia
         <strong>SIS-500 Programacion Avanzada</strong>.
     </p>
+    
+    <p>
+    El objetivo de este proyecto es aplicar rutas, controladores, vistas Blade,
+    validacion, base de datos y control de versiones con Git.
+    </p>
 
     <div class="datos-inicio">
         <div class="dato">
