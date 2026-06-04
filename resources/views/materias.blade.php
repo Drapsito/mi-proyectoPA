@@ -10,6 +10,7 @@
     <p>
         En esta seccion se muestra una lista de materias registradas,
         usando objetos enviados desde el controlador.
+        usando datos obtenidos desde la base de datos mediante Eloquent.
     </p>
 
     <div class="resumen-materias">
