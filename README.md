@@ -157,6 +157,10 @@ git log --oneline
 git tree
 ```
 
+## Estado del proyecto
+
+El proyecto se encuentra en desarrollo academico y fue subido a GitHub como parte del laboratorio de Git y GitHub.
+
 ## Autor
 
 **Julian Quis**
