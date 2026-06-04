@@ -27,6 +27,7 @@
 
     <footer>
         <p>Proyecto Final - Laravel - SIS-500 - Gestion 2026</p>
+        <small>Universidad Privada San Francisco de Asis</small>
     </footer>
 
 </body>
