@@ -17,6 +17,10 @@
         Este proyecto fue desarrollado para aplicar rutas, controladores,
         vistas Blade y estructura MVC en Laravel.
     </p>
+    <p>
+    Me interesa el desarrollo web porque permite crear soluciones utiles
+    para problemas reales.
+    </p>
 
     <h3>Mis habilidades</h3>
 
