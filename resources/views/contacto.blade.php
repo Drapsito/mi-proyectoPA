@@ -10,6 +10,9 @@
     <p>
         En esta seccion puedes enviar un mensaje mediante un formulario.
     </p>
+    <p>
+    Los campos del formulario son validados antes de procesar el mensaje.
+    </p>
 
     @if(session('exito'))
         <div class="mensaje-confirmacion">
