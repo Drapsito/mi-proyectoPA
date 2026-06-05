@@ -27,7 +27,7 @@ class PaginaController extends Controller
         ];
 
         return view('sobre-mi', [
-            'nombre' => 'Tu Nombre Completo',
+            'nombre' => 'Julian Quispe Ramos',
             'carrera' => 'Ingenieria de Sistemas',
             'semestre' => 'Sexto semestre',
             'habilidades' => $habilidades,

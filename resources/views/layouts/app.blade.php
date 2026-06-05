@@ -19,6 +19,7 @@
         <a href="{{ route('sobre-mi') }}">Sobre mi</a>
         <a href="{{ route('materias') }}">Materias</a>
         <a href="{{ route('contacto') }}">Contacto</a>
+        <a href="{{ route('productos.index') }}">Productos</a>
     </nav>
 
     <main>

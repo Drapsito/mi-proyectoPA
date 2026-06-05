@@ -30,7 +30,7 @@ class ProductoController extends Controller
                 'categoria' => 'Electronica',
             ],
             [
-                'nombre' => 'Memoria SDD 520GB',
+                'nombre' => 'Memoria SSD 520GB',
                 'precio' => 550.00,
                 'categoria' => 'Almacenamiento',
             ],
